@@ -1,0 +1,5 @@
+{
+  "name": "Fitness Fuel Calculator",
+  "description": "A modern, bilingual (English/Arabic) calorie calculator to determine your daily needs for maintaining or losing weight, with support for both light and dark themes.",
+  "requestFramePermissions": []
+}
